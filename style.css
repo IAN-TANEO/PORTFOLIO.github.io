@@ -19,8 +19,8 @@ body{
     width: 100%;
     height: 100%;
     overflow-x: hidden;
-    background-color: aqua;
-    color: aqua;
+    background-color: teal;
+    color: teal;
 }
 
 header{
@@ -73,12 +73,12 @@ nav a.active{
         top: 0;
         right: 0;
         width: 40%;
-        border-left: 3px solid aqua;
-        border-bottom: 3px aqua;
+        border-left: 3px solid teal;
+        border-bottom: 3px teal;
         border-top-left-radius: 2rem;
         padding: 1rem solid;
         background-color: teal;
-        border-top: 0.1rem solid aqua(0,0,0,0.1);
+        border-top: 0.1rem solid teal(0,0,0,0.1);
     }
 
     nav.active{
