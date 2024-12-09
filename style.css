@@ -204,6 +204,17 @@ span{
     color: black;
 }
 
+.text-ya{
+    color: black;
+    font-size: 34px;
+    
+}
+.Hi-1{
+    color: black;
+    font-size: 40px;
+
+}
+
 .typing-text span{
     position: relative;
 }
