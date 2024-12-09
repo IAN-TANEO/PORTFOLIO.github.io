@@ -207,7 +207,7 @@ span{
 
 .typing-text span::before{
     content: "Software Developer";
-    color: wheat;
+    color: black;
     animation: words 20s infinite;
 }
 
