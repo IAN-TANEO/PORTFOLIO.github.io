@@ -199,6 +199,7 @@ span{
     font-size: 34px;
     font-weight: 600;
     min-width: 280px;
+    color: black;
 }
 
 .typing-text span{
@@ -207,7 +208,7 @@ span{
 
 .typing-text span::before{
     content: "Software Developer";
-    color: blue;
+    color: black;
     animation: words 20s infinite;
 }
 
